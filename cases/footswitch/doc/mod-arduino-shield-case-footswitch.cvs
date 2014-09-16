@@ -1,0 +1,41 @@
+Source:,/home/rafael/devel/mod-arduino-shield/cases/footswitch/mod-arduino-shield-case-footswitch.sch
+Date:,Tue 16 Sep 2014 14:01:18 BRT
+Tool:,eeschema (2014-03-19 BZR 4756)-product
+Component Count:,20
+
+Individual Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+,,AD1,HEADER_1x6,mod-arduino-shield:HEADER_1x6,,
+,,D1,LED,device:LED,,
+,,D2,LED,device:LED,,
+,,D3,LED,device:LED,,
+,,D4,LED,device:LED,,
+,,IOH1,HEADER_1x10,mod-arduino-shield:HEADER_1x10,,
+,,PROTO_5V1,HEADER_1x16,mod-arduino-shield:HEADER_1x16,,
+,,PROTO_GND1,HEADER_1x16,mod-arduino-shield:HEADER_1x16,,
+,,R1,10k,device:R,,
+,,R2,10k,device:R,,
+,,R3,10k,device:R,,
+,,R4,10k,device:R,,
+,,R5,1k,device:R,,
+,,R6,1k,device:R,,
+,,R7,1k,device:R,,
+,,R8,1k,device:R,,
+,,SW1,SW_PUSH_NO,device:SW_PUSH,,
+,,SW2,SW_PUSH_NO,device:SW_PUSH,,
+,,SW3,SW_PUSH_NO,device:SW_PUSH,,
+,,SW4,SW_PUSH_NO,device:SW_PUSH,,
+
+
+
+Collated Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,1,AD1,HEADER_1x6,mod-arduino-shield:HEADER_1x6,,
+2,4,"D1, D2, D3, D4",LED,device:LED,,
+3,1,IOH1,HEADER_1x10,mod-arduino-shield:HEADER_1x10,,
+4,2,"PROTO_5V1, PROTO_GND1",HEADER_1x16,mod-arduino-shield:HEADER_1x16,,
+5,4,"R1, R2, R3, R4",10k,device:R,,
+6,4,"R5, R6, R7, R8",1k,device:R,,
+7,4,"SW1, SW2, SW3, SW4",SW_PUSH_NO,device:SW_PUSH,,

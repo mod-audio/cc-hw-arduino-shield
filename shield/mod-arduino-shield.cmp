@@ -1,0 +1,339 @@
+Cmp-Mod V01 Created by CvPcb (2014-03-19 BZR 4756)-product date = Tue 16 Sep 2014 14:54:14 BRT
+
+BeginCmp
+TimeStamp = /538DF275;
+Reference = AD1;
+ValeurCmp = HEADER_1x6;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_1R6P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DEA3E;
+Reference = AD_PROTO1;
+ValeurCmp = HEADER_1x6;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_1R6P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5334CFED;
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = mod-arduino-shield-lib:CAP_RAD_5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53338CC2;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5334219B;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53333084;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533421A8;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53332764;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53332731;
+Reference = C7;
+ValeurCmp = 100uF;
+IdModule  = mod-arduino-shield-lib:CAP_RAD_5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53332A2E;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53332A27;
+Reference = C9;
+ValeurCmp = 100uF;
+IdModule  = mod-arduino-shield-lib:CAP_RAD_5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /53338451;
+Reference = D1;
+ValeurCmp = CGRA4007-G;
+IdModule  = mod-arduino-shield-lib:DO-214AC(SMA);
+EndCmp
+
+BeginCmp
+TimeStamp = /538DF8C9;
+Reference = D2;
+ValeurCmp = MMSZ5242B;
+IdModule  = mod-arduino-shield-lib:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DF912;
+Reference = D3;
+ValeurCmp = MMSZ5242B;
+IdModule  = mod-arduino-shield-lib:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = /5349F083;
+Reference = H1;
+ValeurCmp = HOLE;
+IdModule  = mod-arduino-shield-lib:HOLE_3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DF254;
+Reference = IOH1;
+ValeurCmp = HEADER_1x10;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_1R10P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DE79D;
+Reference = IOH_PROTO1;
+ValeurCmp = HEADER_1x10;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_1R10P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DF25F;
+Reference = IOL1;
+ValeurCmp = HEADER_1x8;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_1R8P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DE7E1;
+Reference = IOL_PROTO1;
+ValeurCmp = HEADER_1x8;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_1R8P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /53336033;
+Reference = J1;
+ValeurCmp = RJHSE-5084;
+IdModule  = mod-arduino-shield-lib:RJ45-RJHSE5084;
+EndCmp
+
+BeginCmp
+TimeStamp = /53338CB6;
+Reference = J2;
+ValeurCmp = RJHSE-5084;
+IdModule  = mod-arduino-shield-lib:RJ45-RJHSE5084;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DEC8B;
+Reference = JP1;
+ValeurCmp = HEADER_2x3_180;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_2R3P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /54184BAF;
+Reference = JP2;
+ValeurCmp = HEADER_1x2_180;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_1R2P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DF26A;
+Reference = POWER1;
+ValeurCmp = HEADER_1x8;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_1R8P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DE9E3;
+Reference = POWER_PROTO1;
+ValeurCmp = HEADER_1x8;
+IdModule  = mod-arduino-shield-lib:HEADER_100MIL_1R8P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DE336;
+Reference = PROTOBOARD1;
+ValeurCmp = PROTO_8x16;
+IdModule  = mod-arduino-shield-lib:PROTOBOARD_100MIL_8R16P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DE584;
+Reference = PROTO_3.3V1;
+ValeurCmp = HEADER_1x16;
+IdModule  = mod-arduino-shield-lib:PROTOBOARD_100MIL_1R16P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DE512;
+Reference = PROTO_5V1;
+ValeurCmp = HEADER_1x16;
+IdModule  = mod-arduino-shield-lib:PROTOBOARD_100MIL_1R16P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /538DE579;
+Reference = PROTO_GND1;
+ValeurCmp = HEADER_1x16;
+IdModule  = mod-arduino-shield-lib:PROTOBOARD_100MIL_1R16P_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /54138337;
+Reference = Q1;
+ValeurCmp = MMBT3904;
+IdModule  = mod-arduino-shield-lib:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /53333916;
+Reference = R1;
+ValeurCmp = 120R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533334CB;
+Reference = R2;
+ValeurCmp = 10R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533334E9;
+Reference = R3;
+ValeurCmp = 10R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53333250;
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53333237;
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533344D6;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533344E2;
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54184D8C;
+Reference = R8;
+ValeurCmp = 180R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5334F077;
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533540C4;
+Reference = R10;
+ValeurCmp = 470R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533540B7;
+Reference = R11;
+ValeurCmp = 470R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533529B9;
+Reference = R12;
+ValeurCmp = 470R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5334F065;
+Reference = R13;
+ValeurCmp = 470R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54173280;
+Reference = R14;
+ValeurCmp = 100R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /541732A1;
+Reference = R15;
+ValeurCmp = 100R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /541732C0;
+Reference = R16;
+ValeurCmp = 100R;
+IdModule  = mod-arduino-shield-lib:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533382BD;
+Reference = RT1;
+ValeurCmp = FUSE_500mA;
+IdModule  = mod-arduino-shield-lib:SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /5333254F;
+Reference = U1;
+ValeurCmp = SN75176BDR;
+IdModule  = mod-arduino-shield-lib:SO8E;
+EndCmp
+
+EndListe

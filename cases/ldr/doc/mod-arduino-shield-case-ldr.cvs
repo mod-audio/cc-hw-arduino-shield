@@ -1,0 +1,23 @@
+Source:,/home/rafael/devel/mod-arduino-shield/cases/ldr/mod-arduino-shield-case-ldr.sch
+Date:,Tue 16 Sep 2014 14:07:33 BRT
+Tool:,eeschema (2014-03-19 BZR 4756)-product
+Component Count:,5
+
+Individual Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+,,AD1,HEADER_1x6,mod-arduino-shield:HEADER_1x6,,
+,,LDR1,LDR_10k,device:RVAR,,
+,,PROTO_5V1,HEADER_1x16,mod-arduino-shield:HEADER_1x16,,
+,,PROTO_GND1,HEADER_1x16,mod-arduino-shield:HEADER_1x16,,
+,,R1,10k,device:R,,
+
+
+
+Collated Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,1,AD1,HEADER_1x6,mod-arduino-shield:HEADER_1x6,,
+2,1,LDR1,LDR_10k,device:RVAR,,
+3,2,"PROTO_5V1, PROTO_GND1",HEADER_1x16,mod-arduino-shield:HEADER_1x16,,
+4,1,R1,10k,device:R,,

@@ -1,0 +1,21 @@
+Source:,/home/rafael/devel/mod-arduino-shield/cases/distance/mod-arduino-shield-case-distance.sch
+Date:,Tue 16 Sep 2014 13:51:48 BRT
+Tool:,eeschema (2014-03-19 BZR 4756)-product
+Component Count:,4
+
+Individual Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+,,IOH1,HEADER_1x10,mod-arduino-shield:HEADER_1x10,,
+,,PROTO_5V1,HEADER_1x16,mod-arduino-shield:HEADER_1x16,,
+,,PROTO_GND1,HEADER_1x16,mod-arduino-shield:HEADER_1x16,,
+,,U1,HC_SR04,mod-arduino-shield:HC_SR04,,
+
+
+
+Collated Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,1,IOH1,HEADER_1x10,mod-arduino-shield:HEADER_1x10,,
+2,2,"PROTO_5V1, PROTO_GND1",HEADER_1x16,mod-arduino-shield:HEADER_1x16,,
+3,1,U1,HC_SR04,mod-arduino-shield:HC_SR04,,
