@@ -1,6 +1,6 @@
 (module LED_CLRTB_GFSF_1 locked (layer F.Cu) (tedit 535744FF)
   (attr smd)
-  (fp_text reference LED3 (at 2.2606 -0.00762 270) (layer F.SilkS)
+  (fp_text reference LED? (at 2.2606 -0.00762 270) (layer F.SilkS)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
   )
   (fp_text value LED_RGB (at -1.016 -3.556) (layer F.SilkS)

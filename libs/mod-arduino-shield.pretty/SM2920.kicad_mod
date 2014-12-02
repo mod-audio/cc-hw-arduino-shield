@@ -1,9 +1,9 @@
 (module SM2920 (layer F.Cu) (tedit 53571D2E)
   (attr smd)
-  (fp_text reference RT1 (at -4.826 0 90) (layer F.SilkS)
+  (fp_text reference REF*** (at -4.826 0 90) (layer F.SilkS)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
   )
-  (fp_text value PTC_FUSE_500mA (at 0 3.81) (layer F.SilkS) hide
+  (fp_text value VAL*** (at 0 3.81) (layer F.SilkS) hide
     (effects (font (size 0.762 0.762) (thickness 0.1524)))
   )
   (fp_line (start -2.2 -2.75) (end 2.2 -2.75) (layer F.SilkS) (width 0.254))

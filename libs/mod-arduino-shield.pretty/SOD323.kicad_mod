@@ -1,9 +1,9 @@
 (module SOD323 (layer F.Cu) (tedit 53571AB1)
   (tags "diode SOD323 SC90 reflow")
-  (fp_text reference D4 (at -2.2733 -0.0254 90) (layer F.SilkS)
+  (fp_text reference REF*** (at -2.2733 -0.0254 90) (layer F.SilkS)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
   )
-  (fp_text value 1N4148 (at 0 1.27) (layer F.SilkS) hide
+  (fp_text value VAL*** (at 0 1.27) (layer F.SilkS) hide
     (effects (font (size 0.762 0.762) (thickness 0.1524)))
   )
   (fp_line (start -0.52578 -0.62484) (end -0.52578 0.62484) (layer F.SilkS) (width 0.1905))

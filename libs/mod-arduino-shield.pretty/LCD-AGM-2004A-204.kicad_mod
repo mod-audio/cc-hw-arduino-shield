@@ -1,6 +1,6 @@
 (module LCD-AGM-2004A-204 (layer F.Cu) (tedit 5357EE30)
   (attr smd)
-  (fp_text reference LCD1 (at -0.1 -30.7) (layer F.SilkS)
+  (fp_text reference LCD? (at -0.1 -30.7) (layer F.SilkS)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
   )
   (fp_text value AGM-2004A-204 (at 0 0) (layer F.SilkS) hide
