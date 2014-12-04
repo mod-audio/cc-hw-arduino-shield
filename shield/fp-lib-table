@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name mod-arduino-shield-lib)(type KiCad)(uri ${KIPRJMOD}/../libs/mod-arduino-shield.pretty)(options "")(descr ""))
+  (lib (name MOD_Footprints_Lib)(type KiCad)(uri ${KIPRJMOD}/../libs/mod-kicad-footprints/MOD_Footprints.pretty)(options "")(descr ""))
 )
