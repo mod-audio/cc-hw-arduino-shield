@@ -31,15 +31,15 @@ LIBS:contrib
 LIBS:valves
 LIBS:mod-arduino-shield
 LIBS:mod-arduino-shield-case-accelerometer-cache
-EELAYER 24 0
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "noname.sch"
+Title "Accelerometer example circuit for the MOD Arduino Shield"
 Date ""
 Rev ""
-Comp ""
+Comp "http://portalmod.com/"
 Comment1 ""
 Comment2 ""
 Comment3 ""
