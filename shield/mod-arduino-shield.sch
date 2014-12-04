@@ -31,17 +31,17 @@ LIBS:contrib
 LIBS:valves
 LIBS:mod-arduino-shield
 LIBS:mod-arduino-shield-cache
-EELAYER 24 0
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "MOD Arduino Shield (Control-Chain interface)"
 Date "14 apr 2014"
 Rev ""
-Comp ""
-Comment1 ""
-Comment2 ""
+Comp "http://portalmod.com/"
+Comment1 "Licensed under Creative Commons By SA"
+Comment2 "https://github.com/portalmod/mod-arduino-shield"
 Comment3 ""
 Comment4 ""
 $EndDescr
