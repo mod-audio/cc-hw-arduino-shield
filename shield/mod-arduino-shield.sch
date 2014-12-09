@@ -565,7 +565,7 @@ AD4/SDA
 Text GLabel 6500 1100 0    40   BiDi ~ 0
 AD5/SCL
 Text GLabel 2000 1800 2    40   Input ~ 0
-VIN
+9V
 $Comp
 L +9V #PWR018
 U 1 1 5333B85C
@@ -649,9 +649,9 @@ IO1/TXD
 Text GLabel 6500 2950 0    40   BiDi ~ 0
 IO0/RXD
 Text GLabel 5450 1950 2    40   Input ~ 0
-VIN
+9V
 Text GLabel 6150 7000 2    40   Output ~ 0
-VIN
+9V
 $Comp
 L GND #PWR022
 U 1 1 5334BFA6
@@ -1732,5 +1732,5 @@ Wire Wire Line
 Wire Wire Line
 	10500 4150 10500 4050
 Text GLabel 10500 4050 1    40   Input ~ 0
-IOREF
+5V
 $EndSCHEMATC
