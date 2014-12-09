@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/fsanches/devel/github_portalmod/mod-arduino-shield/shield/mod-arduino-shield.sch)
-    (date "Qui 04 Dez 2014 13:41:41 BRST")
+    (date "Ter 09 Dez 2014 18:39:48 BRST")
     (tool "Eeschema (2014-jul-16 BZR unknown)-product"))
   (components
     (comp (ref U1)
@@ -699,7 +699,7 @@
     (net (code 30) (name "Net-(J1-Pad12)")
       (node (ref J1) (pin 12))
       (node (ref R13) (pin 1)))
-    (net (code 31) (name VCCIO)
+    (net (code 31) (name IOREF)
       (node (ref R7) (pin 2))
       (node (ref POWER_PROTO1) (pin 2))
       (node (ref POWER1) (pin 2))

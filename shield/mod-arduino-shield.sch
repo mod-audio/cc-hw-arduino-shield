@@ -1647,11 +1647,11 @@ Wire Notes Line
 Wire Notes Line
 	11100 5900 6550 5900
 Text GLabel 2000 1200 2    40   Output ~ 0
-VCCIO
+IOREF
 Wire Wire Line
 	1900 1200 2000 1200
 Text GLabel 5450 1350 2    40   Output ~ 0
-VCCIO
+IOREF
 Wire Wire Line
 	5350 1350 5450 1350
 $Comp
@@ -1732,5 +1732,5 @@ Wire Wire Line
 Wire Wire Line
 	10500 4150 10500 4050
 Text GLabel 10500 4050 1    40   Input ~ 0
-VCCIO
+IOREF
 $EndSCHEMATC
