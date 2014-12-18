@@ -1,4 +1,4 @@
-update=Tue 16 Sep 2014 12:45:43 BRT
+update=Qui 18 Dez 2014 15:37:01 BRST
 last_client=kicad
 [eeschema]
 version=1
@@ -45,3 +45,16 @@ LibName30=valves
 LibName31=mod-arduino-shield
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=doc/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60

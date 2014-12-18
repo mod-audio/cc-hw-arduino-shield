@@ -1,6 +1,6 @@
-update=Tue 16 Sep 2014 14:38:15 BRT
+update=Qui 18 Dez 2014 15:32:04 BRST
 version=1
-last_client=pcbnew
+last_client=kicad
 [cvpcb]
 version=1
 NetITyp=0
@@ -78,3 +78,16 @@ BoardOutlineThickness=0.2
 ModuleOutlineThickness=0.127
 [pcbnew/libraries]
 LibDir=C:/Engineering/KiCAD_Libraries/PCB
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=doc/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
