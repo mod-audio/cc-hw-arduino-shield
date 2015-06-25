@@ -1,3 +1,3 @@
-[submodule "libs/mod-kicad-footprints"]
-	path = libs/mod-kicad-footprints
-	url = https://github.com/portalmod/mod-kicad-footprints.git
+[submodule "hw-design/lib/kicad-library"]
+	path = hw-design/lib/kicad-library
+	url = git@github.com:KiCad/kicad-library.git
