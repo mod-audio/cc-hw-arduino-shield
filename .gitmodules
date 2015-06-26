@@ -1,3 +1,24 @@
 [submodule "hw-design/lib/kicad-library"]
 	path = hw-design/lib/kicad-library
 	url = git@github.com:KiCad/kicad-library.git
+[submodule "hw-design/lib/Capacitors_SMD.pretty"]
+	path = hw-design/lib/Capacitors_SMD.pretty
+	url = git@github.com:KiCad/Capacitors_SMD.pretty.git
+[submodule "hw-design/lib/Diodes_SMD.pretty"]
+	path = hw-design/lib/Diodes_SMD.pretty
+	url = git@github.com:KiCad/Diodes_SMD.pretty.git
+[submodule "hw-design/lib/LEDs.pretty"]
+	path = hw-design/lib/LEDs.pretty
+	url = git@github.com:KiCad/LEDs.pretty.git
+[submodule "hw-design/lib/Pin_Headers.pretty"]
+	path = hw-design/lib/Pin_Headers.pretty
+	url = git@github.com:KiCad/Pin_Headers.pretty.git
+[submodule "hw-design/lib/Housings_SOT-23_SOT-143_TSOT-6.pretty"]
+	path = hw-design/lib/Housings_SOT-23_SOT-143_TSOT-6.pretty
+	url = git@github.com:KiCad/Housings_SOT-23_SOT-143_TSOT-6.pretty.git
+[submodule "hw-design/lib/Resistors_SMD.pretty"]
+	path = hw-design/lib/Resistors_SMD.pretty
+	url = git@github.com:KiCad/Resistors_SMD.pretty.git
+[submodule "hw-design/lib/Housings_SOIC.pretty"]
+	path = hw-design/lib/Housings_SOIC.pretty
+	url = git@github.com:KiCad/Housings_SOIC.pretty.git
