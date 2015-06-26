@@ -1,4 +1,4 @@
-update=Thu 25 Jun 2015 05:42:52 PM CEST
+update=Fri 26 Jun 2015 12:31:50 PM CEST
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,26 +6,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[pcbnew]
-version=1
-UseCmpFile=1
-PadDrill=1.550000000000
-PadDrillOvalY=1.550000000000
-PadSizeH=1.550000000000
-PadSizeV=1.550000000000
-PcbTextSizeV=1.500000000000
-PcbTextSizeH=1.500000000000
-PcbTextThickness=0.300000000000
-ModuleTextSizeV=1.000000000000
-ModuleTextSizeH=1.000000000000
-ModuleTextSizeThickness=0.150000000000
-SolderMaskClearance=0.000000000000
-SolderMaskMinWidth=0.000000000000
-DrawSegmentWidth=0.200000000000
-BoardOutlineThickness=0.200000000000
-ModuleOutlineThickness=0.200000000000
-[pcbnew/libraries]
-LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -50,3 +30,23 @@ LibName2=kicad-library/library/device
 LibName3=kicad-library/library/interface
 LibName4=kicad-library/library/power
 LibName5=kicad-library/library/transistors
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=control-chain-arduino-shield.net
+UseCmpFile=0
+PadDrill=3.048
+PadDrillOvalY=3.048
+PadSizeH=4.064
+PadSizeV=4.064
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=1
+ModuleTextSizeH=1
+ModuleTextSizeThickness=0.15
+SolderMaskClearance=0
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.15
+BoardOutlineThickness=0.15
+ModuleOutlineThickness=0.15
