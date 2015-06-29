@@ -2,7 +2,7 @@ control-chain-arduino-shield
 ============================
 
 
-This repository contains the schematics and PCB design files for Control Chain Arduino Shield hardware. It serves as a way for people to create new peripheral to be used in conjunction with the MOD (http://moddevices.com/) via its Control Chain interface.
+This repository contains the schematics and PCB design files for Control Chain Arduino Shield hardware. It serves as a way for people to create new peripheral to be used in conjunction with MOD (http://moddevices.com/) via its Control Chain interface.
 
 These files were created and can be improved with KiCAD, a free software Electronics CAD which is available at http://www.kicad-pcb.org/
 
