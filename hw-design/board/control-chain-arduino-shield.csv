@@ -5,14 +5,14 @@ Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MPN
 4,1,D1,CGRA4007-G,device:D,Diodes_SMD:Diode-SMA_Standard,,CGRA4007-G
 5,1,D2,LED,device:LED,LEDs:LED-0603,,LS Q976-NR-1
 6,2,"D3, D4",1N4148,device:D,Diodes_SMD:SOD-323,,1N4148WX-TP
-7,4,"H1, H2, H3, H4",Hole,conn:CONN_01X01,Socket_Arduino_Uno:Arduino_1pin,,
-8,1,J1,CC_INPUT,conn:RJ45_LEDS,Connect:RJHSE538X,,RJHSE-5381
-9,1,J2,CC_OUTPUT,conn:RJ45_LEDS,Connect:RJHSE538X,,RJHSE-5381
-10,1,P1,Power,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,
-11,8,"P10, P11, P12, P5, P6, P7, P8, P9",CONN_01X16,conn:CONN_01X16,Pin_Headers:Pin_Header_Angled_1x16,,
-12,1,P2,Analog,conn:CONN_01X06,Socket_Arduino_Uno:Socket_Strip_Arduino_1x06,,
-13,1,P3,Digital,conn:CONN_01X10,Socket_Arduino_Uno:Socket_Strip_Arduino_1x10,,
-14,1,P4,Digital,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,
+7,1,J1,CC_INPUT,conn:RJ45_LEDS,Connect:RJHSE538X,,RJHSE-5381
+8,1,J2,CC_OUTPUT,conn:RJ45_LEDS,Connect:RJHSE538X,,RJHSE-5381
+9,2,"P1, P10",Power,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,
+10,2,"P11, P2",Analog,conn:CONN_01X06,Socket_Arduino_Uno:Socket_Strip_Arduino_1x06,,
+11,2,"P12, P3",Digital,conn:CONN_01X10,Socket_Arduino_Uno:Socket_Strip_Arduino_1x10,,
+12,2,"P13, P4",Digital,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,
+13,9,"P14, P15, P16, P17, P18, P19, P20, P21, P9",~,conn:CONN_01X14,Pin_Headers:Pin_Header_Straight_1x14,,
+14,4,"P5, P6, P7, P8",Hole,conn:CONN_01X01,Socket_Arduino_Uno:Arduino_1pin,,
 15,3,"Q1, Q2, Q3",2N7002,device:Q_NMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,"2N7002P,215"
 16,1,Q4,IRFML8244TRPBF,device:Q_NMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,IRFML8244TRPBF
 17,5,"R1, R2, R3, R4, R5",820R,device:R,Resistors_SMD:R_0603,,ESR03EZPJ821
