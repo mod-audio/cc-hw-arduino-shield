@@ -1,23 +1,23 @@
 Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MPN
 1,1,C1,10uF,device:CP1,Capacitors_SMD:c_elec_5x5.3,,UWX1E100MCL1GB
-2,1,C2,100nF,device:C,Capacitors_SMD:C_0603,,C1608X7R1E104K080AA
-3,1,C3,100nF X7R,device:C,Capacitors_SMD:C_0603,,C1608X7R1E104K080AA
-4,1,D1,CGRA4007-G,device:D,Diodes_SMD:Diode-SMA_Standard,,CGRA4007-G
-5,1,D2,LED,device:LED,LEDs:LED-0603,,LS Q976-NR-1
-6,2,"D3, D4",1N4148,device:D,Diodes_SMD:SOD-323,,1N4148WX-TP
-7,1,J1,CC_INPUT,conn:RJ45_LEDS,Connect:RJHSE538X,,RJHSE-5381
-8,1,J2,CC_OUTPUT,conn:RJ45_LEDS,Connect:RJHSE538X,,RJHSE-5381
-9,2,"P1, P10",Power,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,
-10,2,"P11, P2",Analog,conn:CONN_01X06,Socket_Arduino_Uno:Socket_Strip_Arduino_1x06,,
-11,2,"P12, P3",Digital,conn:CONN_01X10,Socket_Arduino_Uno:Socket_Strip_Arduino_1x10,,
-12,2,"P13, P4",Digital,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,
-13,9,"P14, P15, P16, P17, P18, P19, P20, P21, P9",~,conn:CONN_01X14,Pin_Headers:Pin_Header_Straight_1x14,,
-14,4,"P5, P6, P7, P8",Hole,conn:CONN_01X01,Socket_Arduino_Uno:Arduino_1pin,,
-15,3,"Q1, Q2, Q3",2N7002,device:Q_NMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,"2N7002P,215"
+2,2,"C2, C3",100nF,device:C,Capacitors_SMD:C_0603,,C1608X7R1E104K080AA
+3,1,D1,CGRA4007-G,device:D,Diodes_SMD:Diode-SMA_Standard,,CGRA4007-G
+4,1,D2,LED,device:LED,LEDs:LED-0603,,LS Q976-NR-1
+5,2,"D3, D4",1N4148,device:D,Diodes_SMD:SOD-323,,1N4148WX-TP
+6,1,J1,CC_INPUT,conn:RJ45_LEDS,Connect:RJHSE538X,,RJHSE-5381
+7,1,J2,CC_OUTPUT,conn:RJ45_LEDS,Connect:RJHSE538X,,RJHSE-5381
+8,2,"P1, P10",Power,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,
+9,2,"P11, P2",Analog,conn:CONN_01X06,Socket_Arduino_Uno:Socket_Strip_Arduino_1x06,,
+10,2,"P12, P3",Digital,conn:CONN_01X10,Socket_Arduino_Uno:Socket_Strip_Arduino_1x10,,
+11,2,"P13, P4",Digital,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,
+12,9,"P14, P15, P16, P17, P18, P19, P20, P21, P9",~,conn:CONN_01X14,Pin_Headers:Pin_Header_Straight_1x14,,
+13,4,"P5, P6, P7, P8",Hole,conn:CONN_01X01,Socket_Arduino_Uno:Arduino_1pin,,
+14,1,Q1,2N7002,device:Q_NMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,"2N7002P,215"
+15,2,"Q2, Q3",BSS84,device:Q_PMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,BSS84
 16,1,Q4,IRFML8244TRPBF,device:Q_NMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,IRFML8244TRPBF
-17,5,"R1, R2, R3, R4, R5",820R,device:R,Resistors_SMD:R_0603,,ESR03EZPJ821
-18,4,"R10, R6, R7, R8",10k,device:R,Resistors_SMD:R_0603,,RMCF0603JT10K0
-19,1,R11,10K,device:R,Resistors_SMD:R_0603,,RMCF0603JT10K0
+17,1,R1,1K,device:R,Resistors_SMD:R_0603,,ESR03EZPJ102
+18,3,"R10, R11, R8",10K,device:R,Resistors_SMD:R_0603,,RMCF0603JT10K0
+19,4,"R2, R3, R4, R5",330R,device:R,Resistors_SMD:R_0603,,ESR03EZPJ102
 20,1,R9,100R,device:R,Resistors_SMD:R_0805,,ERJ-P06F1000V
 21,1,RT1,PTC_FUSE,device:FUSE,Resistors_SMD:R_1210,,0ZCB0050FF2G
 22,1,U1,ISL83491,interface:ISL83491,Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm,,ISL83491IBZ
