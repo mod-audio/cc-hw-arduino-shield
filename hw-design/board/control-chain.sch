@@ -284,13 +284,13 @@ Text GLabel 3750 1600 2    50   Output ~ 0
 RS485_RX+
 Text GLabel 3750 1700 2    50   Output ~ 0
 RS485_RX-
-Text GLabel 3750 3400 2    50   Input ~ 0
+Text GLabel 3750 3600 2    50   Input ~ 0
 RS485_TX+
-Text GLabel 3750 3500 2    50   Input ~ 0
+Text GLabel 3750 4000 2    50   Input ~ 0
 RS485_TX-
-Text GLabel 3750 3600 2    50   Output ~ 0
+Text GLabel 3750 3400 2    50   Output ~ 0
 RS485_RX+
-Text GLabel 3750 4000 2    50   Output ~ 0
+Text GLabel 3750 3500 2    50   Output ~ 0
 RS485_RX-
 Text GLabel 3750 2100 2    50   Output ~ 0
 POWER_INPUT
