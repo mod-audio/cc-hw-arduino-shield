@@ -344,12 +344,6 @@ Connection ~ 1850 2100
 Wire Wire Line
 	1750 2300 1800 2300
 Wire Wire Line
-	1800 2300 1800 2400
-Wire Wire Line
-	1800 2400 1950 2400
-Wire Wire Line
-	1950 2400 1950 2350
-Wire Wire Line
 	1750 2000 2350 2000
 Wire Wire Line
 	2350 2000 2350 1950
@@ -502,15 +496,6 @@ Connection ~ 7350 1700
 Wire Wire Line
 	7400 1600 7350 1600
 Connection ~ 7350 1600
-$Comp
-L +12V #PWR2
-U 1 1 560B7619
-P 1950 2350
-F 0 "#PWR2" H 1950 2200 50  0001 C CNN
-F 1 "+12V" H 1950 2490 50  0000 C CNN
-F 2 "" H 1950 2350 60  0000 C CNN
-F 3 "" H 1950 2350 60  0000 C CNN
-	1    1950 2350
-	1    0    0    -1  
-$EndComp
+Text GLabel 1800 2300 2    40   Input ~ 0
+VIN
 $EndSCHEMATC
