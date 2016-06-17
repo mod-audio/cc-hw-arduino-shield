@@ -296,6 +296,7 @@ F 0 "P1" H 5450 2450 50  0000 C CNN
 F 1 "Power" V 5550 2000 50  0000 C CNN
 F 2 "Socket_Arduino_Uno:Socket_Strip_Arduino_1x08" V 5450 2000 60  0001 C CNN
 F 3 "" H 5450 2000 60  0000 C CNN
+F 4 "PREC008SFAN-RC" H 5450 2000 60  0001 C CNN "MPN"
 	1    5450 2000
 	-1   0    0    -1  
 $EndComp
@@ -307,6 +308,7 @@ F 0 "P2" H 5450 3300 50  0000 C CNN
 F 1 "Analog" V 5550 2950 50  0000 C CNN
 F 2 "Socket_Arduino_Uno:Socket_Strip_Arduino_1x06" V 5450 2950 60  0001 C CNN
 F 3 "" H 5450 2950 60  0000 C CNN
+F 4 "PREC006SFAN-RC" H 5450 2950 60  0001 C CNN "MPN"
 	1    5450 2950
 	-1   0    0    -1  
 $EndComp
@@ -318,6 +320,7 @@ F 0 "P3" H 7200 2500 50  0000 C CNN
 F 1 "Digital" V 7300 1950 50  0000 C CNN
 F 2 "Socket_Arduino_Uno:Socket_Strip_Arduino_1x10" V 7200 1950 60  0001 C CNN
 F 3 "" H 7200 1950 60  0000 C CNN
+F 4 "PREC010SFAN-RC" H 7200 1950 60  0001 C CNN "MPN"
 	1    7200 1950
 	1    0    0    -1  
 $EndComp
@@ -329,6 +332,7 @@ F 0 "P4" H 7200 3450 50  0000 C CNN
 F 1 "Digital" V 7300 3000 50  0000 C CNN
 F 2 "Socket_Arduino_Uno:Socket_Strip_Arduino_1x08" V 7200 3000 60  0001 C CNN
 F 3 "" H 7200 3000 60  0000 C CNN
+F 4 "PREC008SFAN-RC" H 7200 3000 60  0001 C CNN "MPN"
 	1    7200 3000
 	1    0    0    -1  
 $EndComp
