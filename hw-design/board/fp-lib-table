@@ -7,4 +7,5 @@
   (lib (name LEDs)(type KiCad)(uri ${KIPRJMOD}/../lib/LEDs.pretty)(options "")(descr ""))
   (lib (name Pin_Headers)(type KiCad)(uri ${KIPRJMOD}/../lib/Pin_Headers.pretty)(options "")(descr ""))
   (lib (name Resistors_SMD)(type KiCad)(uri ${KIPRJMOD}/../lib/Resistors_SMD.pretty)(options "")(descr ""))
+  (lib (name local-footprints)(type KiCad)(uri ${KIPRJMOD}/../lib/local-footprints.pretty)(options "")(descr ""))
 )
