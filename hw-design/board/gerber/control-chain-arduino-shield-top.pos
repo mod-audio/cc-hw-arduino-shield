@@ -1,0 +1,21 @@
+### Module positions - created on Tue 12 Jul 2016 11:04:14 AM CEST ###
+### Printed by Pcbnew version kicad 4.0.1-stable
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C2       100nF            C_0603             20.5613    18.9921     180.0    top
+C3       100nF            C_0603             18.6944    43.2816      90.0    top
+D1       CGRA4007-G       Diode-SMA_Standa   16.8554    16.3373      90.0    top
+D2       LED              LED-0603           29.8044    43.9222       0.0    top
+D3       1N4148           SOD-323            16.2560    42.5196       0.0    top
+D4       1N4148           SOD-323            23.8150    38.6385       0.0    top
+Q1       2N7002           SOT-23              9.8831    48.2630     180.0    top
+Q4       IRFML8244TRPBF   SOT-23             21.1836    43.4340      90.0    top
+R1       330R             R_0603             32.7050    43.9222     180.0    top
+R8       10K              R_0603             16.0528    44.3992       0.0    top
+R9       100R             R_0805             23.8912    43.4294     270.0    top
+R10      10K              R_0603             16.2382    31.1607       0.0    top
+R11      10K              R_0603             23.7693    40.5338       0.0    top
+RT1      PTC_FUSE         R_1210             20.6604    15.7840      90.0    top
+U1       ISL83491         SOIC-14_3.9x8.7m   18.4404    36.7284       0.0    top
+## End
