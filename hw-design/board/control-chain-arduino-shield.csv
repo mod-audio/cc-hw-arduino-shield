@@ -1,4 +1,4 @@
-Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MPN,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MPN,Note
 1,1,C1,10uF,device:CP1,Capacitors_SMD:c_elec_5x5.3,,UWX1E100MCL1GB,
 2,2,"C2, C3",100nF,device:C,Capacitors_SMD:C_0603,,C1608X7R1E104K080AA,
 3,1,D1,CGRA4007-G,device:D,Diodes_SMD:Diode-SMA_Standard,,CGRA4007-G,
