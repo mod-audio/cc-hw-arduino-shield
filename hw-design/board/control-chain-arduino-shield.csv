@@ -1,25 +1,27 @@
 Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MPN,Note
 1,1,C1,10uF,device:CP1,Capacitors_SMD:c_elec_5x5.3,,UWX1E100MCL1GB,
 2,2,"C2, C3",100nF,device:C,Capacitors_SMD:C_0603,,C1608X7R1E104K080AA,
-3,1,D1,CGRA4007-G,device:D,Diodes_SMD:Diode-SMA_Standard,,CGRA4007-G,
-4,1,D2,LED,device:LED,LEDs:LED-0603,,LS Q976-NR-1,
-5,2,"D3, D4",1N4148,device:D,Diodes_SMD:SOD-323,,1N4148WX-TP,
-6,1,J1,CC_MAIN,conn:RJ45,local-footprints:54602-908LF,,54602-908LF,
-7,1,J2,CC_NEXT,conn:RJ45,local-footprints:54602-908LF,,54602-908LF,
-8,1,P1,Power,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,PREC008SFAN-RC,
-9,1,P10,Power,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,,no component
-10,1,P11,Analog,conn:CONN_01X06,Socket_Arduino_Uno:Socket_Strip_Arduino_1x06,,,no component
-11,1,P12,Digital,conn:CONN_01X10,Socket_Arduino_Uno:Socket_Strip_Arduino_1x10,,,no component
-12,1,P13,Digital,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,,no component
-13,5,"P14, P19, P20, P21, P9",~,conn:CONN_01X14,Socket_Arduino_Uno:Perfboard,,,no component
-14,1,P2,Analog,conn:CONN_01X06,Socket_Arduino_Uno:Socket_Strip_Arduino_1x06,,PREC006SFAN-RC,
-15,1,P3,Digital,conn:CONN_01X10,Socket_Arduino_Uno:Socket_Strip_Arduino_1x10,,PREC010SFAN-RC,
-16,1,P4,Digital,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,PREC008SFAN-RC,
-17,4,"P5, P6, P7, P8",Hole,conn:CONN_01X01,Socket_Arduino_Uno:Arduino_1pin,,,not a component
-18,1,Q1,2N7002,device:Q_NMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,"2N7002P,215",
-19,1,Q4,IRFML8244TRPBF,device:Q_NMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,IRFML8244TRPBF,
-20,1,R1,330R,device:R,Resistors_SMD:R_0603,,RMCF0603JT330R,
-21,3,"R10, R11, R8",10K,device:R,Resistors_SMD:R_0603,,RMCF0603JT10K0,
-22,1,R9,100R,device:R,Resistors_SMD:R_0805,,ERJ-P06F1000V,
-23,1,RT1,PTC_FUSE,device:FUSE,Resistors_SMD:R_1210,,0ZCB0050FF2G,
-24,1,U1,ISL83491,interface:ISL83491,Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm,,ISL83491IBZ,
+3,1,C4,10uF,device:C,Capacitors_SMD:C_0603,,GRM188R60G106ME47D,
+4,1,D1,CGRA4007-G,device:D,Diodes_SMD:Diode-SMA_Standard,,CGRA4007-G,
+5,1,D2,LED,device:LED,LEDs:LED-0603,,LS Q976-NR-1,
+6,3,"D3, D4, D5",1N4148,device:D,Diodes_SMD:SOD-323,,1N4148WX-TP,
+7,1,J1,CC_MAIN,conn:RJ45,local-footprints:54602-908LF,,54602-908LF,
+8,1,J2,CC_NEXT,conn:RJ45,local-footprints:54602-908LF,,54602-908LF,
+9,1,P1,Power,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,PREC008SFAN-RC,
+10,1,P10,Power,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,,no component
+11,1,P11,Analog,conn:CONN_01X06,Socket_Arduino_Uno:Socket_Strip_Arduino_1x06,,,no component
+12,1,P12,Digital,conn:CONN_01X10,Socket_Arduino_Uno:Socket_Strip_Arduino_1x10,,,no component
+13,1,P13,Digital,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,,no component
+14,5,"P14, P19, P20, P21, P9",~,conn:CONN_01X14,Socket_Arduino_Uno:Perfboard,,,no component
+15,1,P2,Analog,conn:CONN_01X06,Socket_Arduino_Uno:Socket_Strip_Arduino_1x06,,PREC006SFAN-RC,
+16,1,P3,Digital,conn:CONN_01X10,Socket_Arduino_Uno:Socket_Strip_Arduino_1x10,,PREC010SFAN-RC,
+17,1,P4,Digital,conn:CONN_01X08,Socket_Arduino_Uno:Socket_Strip_Arduino_1x08,,PREC008SFAN-RC,
+18,4,"P5, P6, P7, P8",Hole,conn:CONN_01X01,Socket_Arduino_Uno:Arduino_1pin,,,no component
+19,2,"Q1, Q2",2N7002,device:Q_NMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,"2N7002P,215",
+20,1,Q4,IRFML8244TRPBF,device:Q_NMOS_GSD,Housings_SOT-23_SOT-143_TSOT-6:SOT-23,,IRFML8244TRPBF,
+21,1,R1,330R,device:R,Resistors_SMD:R_0603,,RMCF0603JT330R,
+22,5,"R10, R11, R2, R4, R8",10K,device:R,Resistors_SMD:R_0603,,RMCF0603JT10K0,
+23,1,R3,220K,device:R,Resistors_SMD:R_0603,,RMCF0603JT220K,
+24,1,R9,100R,device:R,Resistors_SMD:R_0805,,ERJ-P06F1000V,
+25,1,RT1,PTC_FUSE,device:FUSE,Resistors_SMD:R_1210,,0ZCB0050FF2G,
+26,1,U1,ISL83491,interface:ISL83491,Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm,,ISL83491IBZ,
